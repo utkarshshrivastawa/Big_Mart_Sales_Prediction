@@ -23,3 +23,6 @@
 2. Visualization helps in understanding the distribution of data and the relationship between features and the target variable.
 3. The difference in performance metrics between training and testing sets suggests the need for model tuning or exploring other models to improve generalization on unseen data.
 4. It's important to explore feature engineering, model hyperparameter tuning, or alternative modeling techniques to enhance the model's predictive performance.
+
+## Contributions
+Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit a pull request. If you encounter any issues or have suggestions, please open an issue on the GitHub repository page.
